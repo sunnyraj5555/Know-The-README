@@ -1,6 +1,21 @@
-# Header1
+Use   ```#```       For Large Heading <br />
+Use   ```##```      For Big Heading <br />
+Use   ```###```     For Medium Heading  <br />
+Use   ```####```    For Small Heading <br />
+Use   ```#####```   For Smaller Heading <br />
+Use   ```######```  For Smallest Heading <br />
+
+# Header1 
 
 ## Header2
+
+### Header3
+
+#### Header4
+
+##### Header5
+
+###### Header6
 
 ```
 cout << "This is a Rail";
