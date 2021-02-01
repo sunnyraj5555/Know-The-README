@@ -16,3 +16,11 @@ cout << "This is a Rail using c++";
 ```
 [SUNNY RAJ](https://www.linkedin.com/in/sunny-raj-771526190/)
 ```
+
+- Adding check box using ```- [ ] Text```
+- [ ] header
+- [ ] rails
+- [ ] code syntax
+- [ ] hyperlink
+- [ ] images
+- [ ] checkbox
