@@ -5,3 +5,7 @@
 ```
 cout << "This is a Rail";
 ```
+
+```cpp
+cout << "This is a Rail using c++";
+```
