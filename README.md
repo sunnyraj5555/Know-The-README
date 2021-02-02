@@ -13,7 +13,7 @@ Use   ```######```  For Smallest Heading <br />
 #### Header4
 ##### Header5
 ###### Header6
-
+<hr>
 ## 2.About Rails
 
 - For making a rail use 3 Continuous backtick ```(`)``` and then the Text/Contents and end with 3 backtick
@@ -25,13 +25,15 @@ cout << "This is a Rail";
 ```cpp
 cout << "This is a Rail using c++";
 ```
+<hr>
+## 3.About Adding Htperlink
 
-## Adding Htperlink of my linkedin 
-[SUNNY RAJ](https://www.linkedin.com/in/sunny-raj-771526190/)
+- For adding a link use ```[]()``` 
+- Example: Adding Google Link
+```[Google.com](https://www.google.com/)```
 
-```
-[SUNNY RAJ](https://www.linkedin.com/in/sunny-raj-771526190/)
-```
+[Google.com](https://www.google.com/)
+<hr>
 
 - Adding check box using ```- [ ] Text```
 - [ ] header
@@ -40,3 +42,4 @@ cout << "This is a Rail using c++";
 - [ ] hyperlink
 - [ ] images
 - [ ] checkbox
+
