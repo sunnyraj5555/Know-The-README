@@ -44,5 +44,5 @@ cout << "This is a Rail using c++";
 - [ ] images
 - [ ] checkbox
 
-- If the check box is checked then it becomes ```- [x]``` From other end.
+- If we want to create checked check box then we have to use  ```- [x] Text```.
 - [x] Checked
