@@ -34,6 +34,8 @@ cout << "This is a Rail using c++";
 
 [Google.com](https://www.google.com/)
 
+## 4.About Adding Check Box
+
 - Adding check box using ```- [ ] Text```
 - [ ] header
 - [ ] rails
@@ -42,3 +44,5 @@ cout << "This is a Rail using c++";
 - [ ] images
 - [ ] checkbox
 
+- If the check box is checked then it becomes ```- [x]``` From other end.
+- [x] Checked
