@@ -34,7 +34,7 @@ cout << "This is a Rail using c++";
 
 [Google.com](https://www.google.com/)
 
-## 4.About Adding Check Box
+## 4.About Adding Check-Box
 
 - Adding check box using ```- [ ] Text```
 - [ ] header
