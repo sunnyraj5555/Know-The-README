@@ -48,8 +48,18 @@ cout << "This is a Rail using c++";
 - [x] Checked
 
 ## 5.About Adding IMAGES
+
+### Method 1:
 - It is similar to adding hyper links, just add ``` ! ``` before ``` [ ] ```
 - ``` ![any_text](URL_of the image) ```
 - ``` ![](https://image.freepik.com/free-vector/night-landscape-with-silhouettes-hills-wolf-forest-beautiful-night-sky-with-stars-moon_88130-24.jpg) ```
 ![night sky](https://image.freepik.com/free-vector/night-landscape-with-silhouettes-hills-wolf-forest-beautiful-night-sky-with-stars-moon_88130-24.jpg)
+
+### Method 2: 
+- It is one of the best practice to add image in your readme is that you first push your images in the repository and then use 
+```![any_text](URL_of the image) ``` and now place the url of image from your repo.
+- The benefit is as your image wil be always available in your own repo on the other side giving url from other plateform create confict sometime and leads to loss of image.
+
+### Method 3:
+- It is fast but Not best prctice to ```Drag and Drop``` from your local working directory.
 
