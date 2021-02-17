@@ -26,7 +26,7 @@ cout << "This is a Rail";
 cout << "This is a Rail using c++";
 ```
 
-## 3.About Adding Htperlink
+## 3.About Adding Hyperlink
 
 - For adding a link use ```[]()``` 
 - Example: Adding Google Link
@@ -34,7 +34,7 @@ cout << "This is a Rail using c++";
 
 [Google.com](https://www.google.com/)
 
-## 4.About Adding Check Box
+## 4.About Adding Check-Box
 
 - Adding check box using ```- [ ] Text```
 - [ ] header
